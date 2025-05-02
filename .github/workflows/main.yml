@@ -26,11 +26,11 @@ jobs:
 
     - name: ✅ Run Script
       run: |
-        python your_script_name.py  # replace with your actual script name
+        python your_script_name.py  
 
     - name: 🧪 Run Tests (Optional)
       run: |
-        echo "No tests yet"  # or use pytest/unittest here
+        echo "No tests yet"  
 
     - name: 🚀 Deploy/Completion Step (Optional)
       run: echo "Deployment or other steps go here"
